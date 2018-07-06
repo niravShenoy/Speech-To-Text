@@ -1,0 +1,5 @@
+Python libraries used for running the API:
+pocketsphinx
+sphinxbase
+pydub
+flask
